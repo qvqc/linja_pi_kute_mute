@@ -2,7 +2,7 @@
 
 ![image](image.png)
 
-contains 3 different fonts : linja pi kute mute, lina pi kute mute tu, and linja sike pi kute mute:
+contains 3 different fonts : linja pi kute mute, linja pi kute mute tu, and linja sike pi kute mute:
 
 ![image](previews.png)
 
